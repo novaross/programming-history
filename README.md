@@ -106,6 +106,25 @@ References:
 
 - <https://en.wikipedia.org/wiki/C_(programming_language)>
 
+## 1985
+
+### DOD-STD-2167A
+
+Department of Defense Standard 2167A, a document which establishes "uniform requirements for software development which are applicable through the system lifecycle" which captures the waterfall approach for software development.  
+The development cycle includes the below six phases:
+
+- Requirements Analysis
+- Preliminary Design
+- Detailed Design
+- Coding and Unit Testing
+- Integration
+- Testing
+
+References:
+
+- <https://en.wikipedia.org/wiki/DOD-STD-2167A>
+- <https://www.product-lifecycle-management.com/download/DOD-STD-2167A.pdf>
+
 ## 1996
 
 ### Extreme Programming
