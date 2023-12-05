@@ -99,12 +99,34 @@ References:
 
 Developed at Bell Labs by Dennis Ritchie.  
 Successor of the programming language B.  
-B was developed at Bell Labs around 1969 by Ken Thompson and Dennis Ritchie
+B was developed at Bell Labs around 1969 by Ken Thompson and Dennis Ritchie.  
 Since 2000, C has constantly ranked among the top two languages in the TIOBE index.
+
+The TIOBE (The Importance Of Being Earnest) Programming Community index is an indicator of the popularity of programming languages.  
+The Importance Of Being Earnest is also the name of a play written by Oscar Wilde at the end of the nineteenth century.  
+By choosing this name, the founders of TIOBE emphasize their sincere and professional attitude towards customers, suppliers and colleagues.
 
 References:
 
 - <https://en.wikipedia.org/wiki/C_(programming_language)>
+- <https://www.tiobe.com/tiobe-index/>
+
+## 1974
+
+### Coupling and Cohesion
+
+An article published in IBM Systems Journal by Larry Constantine and others, talks about the concepts of Coupling and Cohesion.  
+Below two principles are crucial in order to design optimum module structure and interfaces.
+
+- Cohesion: grouping of functionally related processes into a particular module
+- Coupling: flow of information or parameters passed between modules, optimal coupling reduces the interfaces of modules and the resulting complexity of the software
+
+Two modules considered coupled, when a change in module A causes a need for a change in module B.  
+Coupling is considered bad for software, which cohesion considered good for software.
+
+References:
+
+- <https://ieeexplore.ieee.org/document/5388187>
 
 ## 1985
 
