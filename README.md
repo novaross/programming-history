@@ -8,6 +8,29 @@ Ruslan Spivak
 
 Contributions are welcome.
 
+## 1950
+
+### The Turing Test
+
+In 1950, Alan Turing publishes a paper called "Computing Machinery and Intelligence" in which he proposes the "Turing Test".  
+Turing Test is a test of a machines ability show intelligent behavior similar to or indistinguishable from that of a human.
+
+The test proposes a natural language conversation between human and a machine which is observed by a human evaluator.  
+The evaluator can only observe the written conversation and is aware that one of the sides is a human and the other is a machine.  
+If the evaluator could not reliably tell the machine from the human, then it is said that the machine has passed the test.  
+Many argue that the test is far from perfect.
+
+### Isaak Asimov Laws of Robotics
+
+Isaak Asimov, American writer and professor of biochemistry at Boston University.  
+The laws are to be followed by robots in his stories.
+
+The three laws are:
+
+- The First Law: A robot may not injure a human being or, through inaction, allow a human being to come to harm
+- The Second Law: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law
+- The Third Law: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law
+
 ## 1958
 
 ### First High Level Functional Programming Language
@@ -66,6 +89,42 @@ Simula introduced:
 
 Simula has influenced the creators of C++ (Bjarne Stroustrup) and Java (James Goosling)
 
+## 1963
+
+### Invention of the Computer Mouse
+
+Douglas Engelbart was working in in Stanford Research Institute (SRI) on improving human-computer interaction.  
+The goal was to find easy and efficient way to use computer interfaces.  
+In 1963 he created a note in his notebook about a "bug" with 2 wheels with which it would be easier and more natural to use to input X and Y coordinate data.
+
+References:
+
+- <https://www.geeksforgeeks.org/who-invented-first-computer-mouse/>
+- <https://en.wikipedia.org/wiki/Computer_mouse>
+
+### Origin of the word Daemon
+
+The word daemon was first used by a team at MIT working on Project MAC (the Project on Mathematics and Computation).  
+During the project a research was conducted into operating systems, artificial intelligence and theory of computation.  
+John McCarthy (inventor of Lisp) was one of the team members.
+
+The use of the word was inspired by the Maxwell's daemon, which is a thought experiment to violate the second law of thermodynamics (entropy, direction of a natural process).  
+Maxwell's daemon was an imaginary agent which helped sort molecules of different speeds and worked tirelessly in the background.
+
+References:
+
+- <https://en.wikipedia.org/wiki/Daemon_(computing)>
+- <https://ei.cs.vt.edu/~history/Daemon.html>
+- <https://en.wikipedia.org/wiki/Maxwell%27s_demon>
+
+## 1966
+
+### Theory of Self Reproducing Automata
+
+John von Neumann was a Hungarian-American mathematician, physicist, computer scientist, engineer and polymath (an individual who's knowledge spans a substantial number of subjects).  
+The paper is a thought experiment into the possibility of creating self replicating pieces of code and describes how a computer program could be designed to replicate itself.  
+Von Neumann's design is considered to be the first computer virus, and Von Neumann considered to be the theoretical father of computer virology.
+
 ## 1970
 
 ### Waterfall Model Detailed Diagram
@@ -92,6 +151,17 @@ The additional steps are going to cost money, but the costs to recover far excee
 References:
 
 - <http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf>
+
+## 1971
+
+### Creeper, the first Computer Virus
+
+The Creeper program is often regarded as the first computer virus.  
+It was designed by Bob Thomas at BBN as a security test to see if a self replicating program was possible.  
+BBN (originally Bolt, Beranek and Newman Inc) started at MIT and is known for DARPA sponsored research and development company.  
+Key player in inventing the internet, BBN registered the domain `bbn.com` on 24 April 1985, making it the second oldest domain name on the internet.  
+John McCarthy was a consultant at BBN. On 209 the company was fully acquired by Raytheon.  
+Email was invented at BBN on 1971, including the use of `@` sign in an email address.
 
 ## 1972
 
@@ -146,6 +216,16 @@ References:
 
 - <https://en.wikipedia.org/wiki/DOD-STD-2167A>
 - <https://www.product-lifecycle-management.com/download/DOD-STD-2167A.pdf>
+
+### Symbolics, First Registered Domain
+
+The first internet domain that was ever registered was `symbolics.com`.  
+It belonged to Symbolics Inc., a computer manufacturer that designed and built single user machines designed to run the the programming language lisp.  
+Symbolics was a spin off from the MIT AI Lab.
+
+References:
+
+- <https://symbolics.com/>
 
 ## 1996
 
