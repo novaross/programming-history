@@ -12,7 +12,7 @@ Contributions are welcome.
 
 ### The Turing Test
 
-In 1950, Alan Turing publishes a paper called "Computing Machinery and Intelligence" in which he proposes the "Turing Test".  
+In 1950, Alan Turing publishes a paper called "Computing Machinery and Intelligence" in which he speculates about the possibility to create machines that can think and proposes the "Turing Test".  
 Turing Test is a test of a machines ability show intelligent behavior similar to or indistinguishable from that of a human.
 
 The test proposes a natural language conversation between human and a machine which is observed by a human evaluator.  
@@ -30,6 +30,18 @@ The three laws are:
 - The First Law: A robot may not injure a human being or, through inaction, allow a human being to come to harm
 - The Second Law: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law
 - The Third Law: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law
+
+## 1956
+
+### Artificial Intelligence
+
+The field of artificial intelligence is founded as an academic discipline.  
+The term officially introduced by John McCarthy during a workshop which marked the beginning of the discipline.
+
+References:
+
+- <https://en.wikipedia.org/wiki/History_of_artificial_intelligence>
+- [John McCarthy (1927-2011): Artificial Intelligence Interview](https://www.youtube.com/watch?v=Ozipf13jRr4)
 
 ## 1958
 
@@ -70,7 +82,7 @@ The team applied an Extreme Programming practice where tests were written before
 
 References:
 
-- <https://en.wikipedia.org/wiki/Project_Mercury>
+- <https://en.wikipedia.org/wiki/Project_Mercury/>
 - <https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/>
 - <https://flowoftesting.wordpress.com/2013/12/21/project-mercury-and-death-of-testing/>
 
@@ -88,6 +100,10 @@ Simula introduced:
 - Subclasses
 
 Simula has influenced the creators of C++ (Bjarne Stroustrup) and Java (James Goosling)
+
+### First Computer Science Department
+
+Formation of the first computer science department at Purdle University in West Lafayette, Indiana, United States.
 
 ## 1963
 
@@ -227,21 +243,46 @@ References:
 
 - <https://symbolics.com/>
 
+## 1986
+
+### Scrum
+
+First use of the term "Scrum" in a paper called "The New New Product Development Game" by Hirotaka Takeuchi and Ikujiro Nonaka.  
+The authors provide an approach to product development for increased speed and flexibility.  
+The approach is build upon case studies from manufacturing firms in the automotive, photocopier and printer industries.
+
+References:
+
+- <http://damiantgordon.com/Methodologies/Papers/The%20New%20Product%20Development%20Game.pdf>
+- <https://en.wikipedia.org/wiki/Scrum_(software_development)>
+
 ## 1996
 
-### Extreme Programming
+### Extreme Programming (XP)
 
-Kent Beck developed Extreme Programming software development methodology while working at Chrysler Corporation payroll system.
+Kent Beck developed Extreme Programming software development methodology while working at Chrysler Corporation payroll system.  
+C3: Chrysler Comprehensive Compensation System.  
 Extreme programming is a methodology intended to improve software quality and responsiveness to changing customer requirements.
+
+Extreme programming takes the best practices to extreme levels.
 
 It advocates:
 
 - Frequent releases
 - Short development cycles
+- User Stories
 - Working in pairs
+- Test Driven Development
 - Code review
 - Unit testing
+- Communication
+- Simplicity
+- Short feedback loops
 - Expecting changes in customers requirements
+
+References:
+
+- <https://en.wikipedia.org/wiki/User_story/>
 
 ## 2001
 
@@ -258,3 +299,9 @@ The principles were written on the second day, by 8 people, seen on the backgrou
 References:
 
 - <https://agilemanifesto.org/>
+
+## 2008
+
+### Gradle
+
+Gradle Build Tool 0.1 released by original Gradle OSS project founder Hans Dockter
