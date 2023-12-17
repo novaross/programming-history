@@ -262,6 +262,7 @@ References:
 
 Kent Beck developed Extreme Programming software development methodology while working at Chrysler Corporation payroll system.  
 C3: Chrysler Comprehensive Compensation System.  
+The methodology takes its name from the idea that the beneficial elements of software development are taken to "extreme" levels.  
 Extreme programming is a methodology intended to improve software quality and responsiveness to changing customer requirements.
 
 Extreme programming takes the best practices to extreme levels.
@@ -271,6 +272,7 @@ It advocates:
 - Frequent releases
 - Short development cycles
 - User Stories
+- Story Points
 - Working in pairs
 - Test Driven Development
 - Code review
@@ -282,7 +284,26 @@ It advocates:
 
 References:
 
-- <https://en.wikipedia.org/wiki/User_story/>
+- <https://en.wikipedia.org/wiki/User_story>
+
+### Story Points
+
+Invented by Ron Jeffries as part of XP.  
+Story points are originally an XP idea, also adopted by Scrum methodology.
+
+Originally, stories were estimated in time units.  
+The term "ideal day" was used, where the developers are not bothered by external interferences.  
+An estimation was suggested where tree real days are required to get the work done of an "ideal day".  
+The stakeholders were confused as to how a days work would take three days to get done.  
+To prevent comparison with time, the team started to say "Points" instead of "Ideal Days".
+
+An attempt to normalize and compare teams based on story points is not advised.
+
+References:
+
+- <https://www.parabol.co/blog/story-points/>
+- <https://ronjeffries.com/articles/019-01ff/story-points/Index.html>
+- [The Genesis of Story Points](https://www.youtube.com/watch?v=UEDvKAqOuZU)
 
 ## 2001
 
