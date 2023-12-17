@@ -5,6 +5,7 @@ This document contains a list of term to be placed on the timeline in the future
 ## Items
 
 - first computer
+- maven
 - Mysql
 - Mongo
 - Open APi Spec
@@ -16,8 +17,10 @@ This document contains a list of term to be placed on the timeline in the future
 - Java
 - Cobol
 - Javascript
-- UML
+- UML, Grady Booch
+- linux
 - git
+- DOS
 - windows
 - google
 - AWS

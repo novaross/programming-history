@@ -271,6 +271,7 @@ It advocates:
 
 - Frequent releases
 - Short development cycles
+- Continuous Integration
 - User Stories
 - Story Points
 - Working in pairs
@@ -326,3 +327,14 @@ References:
 ### Gradle
 
 Gradle Build Tool 0.1 released by original Gradle OSS project founder Hans Dockter
+
+## 2009
+
+### DevOps
+
+The term "DevOps" was coined by Patric Debois, who organized the first DevOps conference in Belgium.
+
+References:
+
+- <https://en.wikipedia.org/wiki/DevOps>
+- <https://www.atlassian.com/devops/what-is-devops/history-of-devops>
