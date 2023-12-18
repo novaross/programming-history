@@ -8,17 +8,19 @@ Ruslan Spivak
 
 Contributions are welcome.
 
-## 1950
+## 1939
 
-### The Turing Test
+### Bombe
 
-In 1950, Alan Turing publishes a paper called "Computing Machinery and Intelligence" in which he speculates about the possibility to create machines that can think and proposes the "Turing Test".  
-Turing Test is a test of a machines ability show intelligent behavior similar to or indistinguishable from that of a human.
+Alan turing created the initial design of the Bombe electro mechanical device which was used to decipher the german Enigma machine.  
+The British bombe was developed from a device known as the "bomba" (Polish: bomba kryptologiczna), which had been designed in Poland at the Biuro Szyfrów (Cipher Bureau) by cryptologist Marian Rejewski, who had been breaking German Enigma messages for the previous seven years, using it and earlier machines.
 
-The test proposes a natural language conversation between human and a machine which is observed by a human evaluator.  
-The evaluator can only observe the written conversation and is aware that one of the sides is a human and the other is a machine.  
-If the evaluator could not reliably tell the machine from the human, then it is said that the machine has passed the test.  
-Many argue that the test is far from perfect.
+References:
+
+- <https://en.wikipedia.org/wiki/Bombe>
+- <https://www.tnmoc.org/bombe>
+
+## 1942
 
 ### Isaak Asimov Laws of Robotics
 
@@ -30,6 +32,23 @@ The three laws are:
 - The First Law: A robot may not injure a human being or, through inaction, allow a human being to come to harm
 - The Second Law: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law
 - The Third Law: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law
+
+References:
+
+- <https://en.wikipedia.org/wiki/Three_Laws_of_Robotics>
+- <https://www.britannica.com/topic/Three-Laws-of-Robotics>
+
+## 1950
+
+### The Turing Test
+
+In 1950, Alan Turing publishes a paper called "Computing Machinery and Intelligence" in which he speculates about the possibility to create machines that can think and proposes the "Turing Test".  
+Turing Test is a test of a machines ability show intelligent behavior similar to or indistinguishable from that of a human.
+
+The test proposes a natural language conversation between human and a machine which is observed by a human evaluator.  
+The evaluator can only observe the written conversation and is aware that one of the sides is a human and the other is a machine.  
+If the evaluator could not reliably tell the machine from the human, then it is said that the machine has passed the test.  
+Many argue that the test is far from perfect.
 
 ## 1956
 
@@ -305,6 +324,14 @@ References:
 - <https://www.parabol.co/blog/story-points/>
 - <https://ronjeffries.com/articles/019-01ff/story-points/Index.html>
 - [The Genesis of Story Points](https://www.youtube.com/watch?v=UEDvKAqOuZU)
+
+## 1997
+
+### CAPTCHA
+
+CAPTCHA is patented by Eran Reshef, Gili Raanan and Eilon Solan.  
+An acronym for Completely Automated Public Turing test to tell Computers and Humans Apart.  
+Captcha is called a reverse Turing test, because the test is administered by a computer and not by a human, as in the standard Turing test.
 
 ## 2001
 
