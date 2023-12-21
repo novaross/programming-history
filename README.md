@@ -233,6 +233,34 @@ References:
 
 - <https://ieeexplore.ieee.org/document/5388187>
 
+## 1979
+
+### MVC Model View Controller
+
+Created by Trygve Reenskaug while working on Smalltalk 79 at the Xerox Palo Alto Research Center.  
+MVC was created "as a general solution to the problem of users controlling a large and complex data set".  
+The approach models items of interest to the user as a logical Model and then provides a View and ways to manipulate the data, ie the Controller.  
+The metaphor introduces the below terms:
+
+- Thing: An abstraction of something of interest to the user, which exists in the real world
+- Model: An active representation of the abstraction (thing) in the form of data in a computer system
+- View: Views are attached to a model, and are capable of representing the model on a screen in different ways as required by the users
+- Controller: A link between the user and the system, a way to manipulate and to configure the view (View Options)
+- Editor: A special type of controller, which permits users to modify the information presented by the view
+
+The MVC pattern has evolved giving rise to various variants like:
+
+- HMVC: Hierarchical Model View Controller
+- MVA: Model View Adapter
+- MVP: Model View Presenter
+- MVVM: Model View Viewmodel
+
+References:
+
+- <https://www.duo.uio.no/bitstream/handle/10852/9621/Reenskaug-MVC.pdf>
+- <https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller>
+- <https://www.martinfowler.com/eaaDev/uiArchs.html>
+
 ## 1985
 
 ### DOD-STD-2167A
@@ -348,6 +376,23 @@ The principles were written on the second day, by 8 people, seen on the backgrou
 References:
 
 - <https://agilemanifesto.org/>
+
+## 2003
+
+### Domain Driven Design
+
+The term is coined by Eric Evans in his book published on August of 2003.  
+DDD is a software design approach, which focuses on modeling the software to match a domain based on input provided by domain experts.
+
+The goals of the approach are to:
+
+- Place the primary focus onto the core domain and domain logic
+- Base complex design on a model of the domain
+- Creative and iterative collaboration between technical and domain experts
+
+- References:
+
+- <https://en.wikipedia.org/wiki/Domain-driven_design>
 
 ## 2008
 
