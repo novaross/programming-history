@@ -8,6 +8,22 @@ Ruslan Spivak
 
 Contributions are welcome.
 
+## 1936
+
+### Turing Machine
+
+An imaginary computer invented in 1936 by English mathematician Alan Turing.  
+A paper is published, called "On Computable Numbers, with an Application to the Entscheidungsproblem (Decision Problem)".  
+The term "Turing Machine" is not mentioned in the paper, Alan uses the term "Computing Machine".  
+The term Turing Machine was first used in 1937, and remained the standard since then.  
+This is the first time the concept of a stored program computers was introduced, where the instructions and the data were on the same store.
+
+References:
+
+- <http://www.scholarpedia.org/article/Turing_machine>
+- <https://en.wikipedia.org/wiki/Turing_machine>
+- <https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf>
+
 ## 1939
 
 ### Bombe
@@ -37,6 +53,45 @@ References:
 
 - <https://en.wikipedia.org/wiki/Three_Laws_of_Robotics>
 - <https://www.britannica.com/topic/Three-Laws-of-Robotics>
+
+## 1943
+
+### Colossus Project
+
+A set of computers developed by the British in the years 1943-1945 to help decrypt the Lorenz cipher.  
+The computers were used to break the codes of the German Lorenz SZ-40 cipher machine which was used by the German High Command.  
+Designed by Tommy Flowers, an electronics engineer of the Post Office Research Station (part of the General Post Office, GPO).  
+The prototype, Colossus Mark 1 was shown to be working on December 1943.  
+An improved Colossus Mark 2 was first working on June 1944.  
+Winston Churchill issued an order for the destruction of the machines after the war.  
+The existence of the machines was kept secret until 1970.  
+Colossus was not used to decipher the Enigma, it was "Bombe", an electro mechanical device created by Alan Turing, in 1939.
+
+References:
+
+- <https://en.wikipedia.org/wiki/Colossus_computer>
+- <https://www.britannica.com/technology/Colossus-computer>
+- <https://www.tnmoc.org/colossus>
+
+## 1945
+
+### ENIAC Electronic Numerical Integrator and Computer
+
+The first programmable, electronic, general purpose digital computer, the building of which was completed on 1945.  
+A US government funded project, initially designed to calculate artillery firing tables.  
+The project began on 1943, John von Neumann joined the project on 1944.  
+Its first job was to perform calculations to help with building hydrogen bombs.
+
+Some numbers:
+
+- Weight: 30 tons approx.
+- Height: 2 Meters
+- Depth: 1 meter
+- Length: 30 meters (U shaped)
+
+### Von Neumann Architecture
+
+John von Neumann
 
 ## 1950
 
