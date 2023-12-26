@@ -91,7 +91,12 @@ Some numbers:
 
 ### Von Neumann Architecture
 
-John von Neumann
+John von Neumann, mathematician and physicist proposed the architecture in 1945.  
+The architecture meant that the computer is easier to reprogram, as the instructions and the data are stored in memory.  
+This relates to the development of the stored program concept, which started with the Turing Machine in 1936.  
+Most personal computers, laptops, smartphones and a wide range of embedded systems use the Von Neumann Architecture.
+
+- <https://www.studysmarter.co.uk/explanations/computer-science/computer-organisation-and-architecture/von-neumann-architecture/>
 
 ## 1950
 
