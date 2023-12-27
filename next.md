@@ -13,12 +13,12 @@ This document contains a list of term to be placed on the timeline in the future
 - maven
 - Mysql
 - Mongo
+- API
 - Open APi Spec
 - docker
 - kubernetes
 - kafka
 - Java
-- Cobol
 - Javascript
 - UML, Grady Booch
 - linux
@@ -28,3 +28,5 @@ This document contains a list of term to be placed on the timeline in the future
 - google
 - AWS
 - EC2
+- EDA <https://www.enterpriseintegrationpatterns.com/patterns/messaging/>
+- event storming <https://en.wikipedia.org/wiki/Event_storming>

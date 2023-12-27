@@ -165,6 +165,30 @@ References:
 - <https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/>
 - <https://flowoftesting.wordpress.com/2013/12/21/project-mercury-and-death-of-testing/>
 
+### COBOL
+
+COBOL is an acronym for "common business oriented language", an English like computer programming language designed for business use.  
+Still widely used in applications deployed on mainframe, however most of the use is for maintenance as programs are migrated to new platforms.  
+Designed by CODASYL (Conference on Data System Languages), a volunteer organization to promote effective data system analysis design and implementation.  
+The language was designed by a committee, and partly based on Flow-Matic, a business oriented programming language created by Grace Hopper.  
+The idea was to create a computer language for business with emphasis on input and output with numbers and strings as data types.
+COBOL 2002 included support for object oriented features.
+
+In 2019 IBM Systems magazine article it was stated that there is a shrinking availability of developers available for COBOL.  
+The industry has tried the below to mitigate COBOL skills shortage:
+
+- Rewrite existing COBOL mainframe application to more modern languages like Java and move it to the cloud
+- Do more withe less, change the way existing programs are maintained
+- Outsource COBOL development and maintenance, a step which has been proven to be less effective
+
+References:
+
+- <https://en.wikipedia.org/wiki/COBOL>
+- <https://blog.microfocus.com/amazing-grace-hopper-birthday/>
+- <https://fedtechmagazine.com/article/2017/09/how-cobol-became-early-backbone-federal-computing>
+- <https://archives.lib.umn.edu/repositories/3/resources/35>
+- <https://web.archive.org/web/20200413033628/https://ibmsystemsmag.com/IBM-Z/10/2019/closing-cobol-programming-skills-gap>
+
 ## 1962
 
 ### Simula, First Object Oriented Programming Language
