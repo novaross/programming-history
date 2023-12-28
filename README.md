@@ -387,35 +387,103 @@ References:
 - <http://damiantgordon.com/Methodologies/Papers/The%20New%20Product%20Development%20Game.pdf>
 - <https://en.wikipedia.org/wiki/Scrum_(software_development)>
 
+## 1995
+
+### Scrum Software Development Methodology
+
+System development process is complicated and complex, therefore maximum flexibility is required.  
+An approach is needed that enables development teams to operate adaptively within a complex environment using imprecise processes.  
+Scrum methodology is a metaphor for the game of Rugby, where the primary goal is to move the ball forward by the team.  
+Scrum is an empirical approach to software development which emphasizes flexibility and responsiveness.  
+Ken Schwaber and Jeff Sutherland developed the similar approaches in parallel and later worked together to integrate their ideas into a single framework.
+
+Ken Schwaber: Software developer, product manager and industry consultant, runs <https://www.scrum.org/>.  
+Jeff Sutherland: Masters in Statistics, Professor in Mathematics.
+
+Scrum in essence:
+
+- Increments of work are delivered in short cycles known as sprints, used to evolve the product
+- Scrum team has a Scrum Master, A product owner and developers who are accountable to turn a selection of work into value
+- The Scrum Team and the stakeholders inspect the results of the Sprint and adjust for the next one
+
+Evolution favours those that operate with maximum exposure to the environment change and have optimized for flexible adaptation to change.
+
+Scrum projects have the below characteristics:
+
+- Flexible deliverable: the content of the deliverable it dictated by the environment
+- Flexible schedule: the deliverable may be required sooner or later than initially planned
+- Small teams 3-6 members, there may be multiple teams
+- Frequent reviews, a functional executable must be prepared by each team for each review
+- Collaboration, intra and inter
+
+References:
+
+- <https://en.wikipedia.org/wiki/Scrum_(software_development)>
+- <https://www.amazon.com/Business-Object-Design-Implementation-Proceedings/dp/3540760962>
+- <http://www.jeffsutherland.org/oopsla/schwapub.pdf>
+- <https://en.wikipedia.org/wiki/Ken_Schwaber>
+- <https://en.wikipedia.org/wiki/Jeff_Sutherland>
+
 ## 1996
 
 ### Extreme Programming (XP)
 
-Kent Beck developed Extreme Programming software development methodology while working at Chrysler Corporation payroll system.  
+Kent Beck developed Extreme Programming software development methodology while working at Chrysler Corporation payroll system together with Ward Cunningham and Ron Jeffries.  
 C3: Chrysler Comprehensive Compensation System.  
+Extreme programming is a methodology intended to improve software quality and responsiveness to changing customer requirements.  
 The methodology takes its name from the idea that the beneficial elements of software development are taken to "extreme" levels.  
-Extreme programming is a methodology intended to improve software quality and responsiveness to changing customer requirements.
+Scrum can be applied to any project that benefits from an iterative approach while XP is about programming.
 
 Extreme programming takes the best practices to extreme levels.
 
-It advocates:
+Values:
 
-- Frequent releases
-- Short development cycles
-- Continuous Integration
-- User Stories
-- Story Points
-- Working in pairs
-- Test Driven Development
-- Code review
-- Unit testing
-- Communication
-- Simplicity
-- Short feedback loops
-- Expecting changes in customers requirements
+- Communication: Face to face discussions with the help of a whiteboard
+- Simplicity: What is the simplest thing that will work? avoid waste, keep the design of the system simple
+- Feedback: Constant feedback about team practices and design
+- Courage: Effective action in the face of fear, stop doing something that does not work, accept feedback, raise issues
+- Respect: Members of the team need to respect each other, provide and accept feedback and work together
+
+Practices:
+
+Outer Circle:
+
+- Whole Team: All contributors of the project sit together, everyone on XP team contributes in any way that they can
+- Planning Game: Release planning, and iteration planning
+- Small Releases: Every iteration the team delivers running tested software delivering business value
+- Customer Tests: Customer defines one or more automated tests, team builds the tests and uses them to prove to themselves and the customer that the feature is implemented correctly
+
+Middle Circle:
+
+- Continuous Integration: Daily builds are for wimps, XP teams build multiple times per day, to mitigate integration hell (CI, Grady Booch 1991, UML)
+- Collective Code Ownership: Code is owned by the whole team and not a programmer who wrote it, due to pair programming
+- Coding Standards: Team follows a single standard defined by the team so that the code looks as if it was written by one person
+- Metaphor: Use common system of names to be sure that everyone understands how the software works and where to look for a functionality
+- Sustainable Pace: XP teams work in a pace that can be sustained indefinitely
+
+Inner Circle:
+
+- Simple Design: The design is simple but adequate and exactly suited for the current functionality of the system, design is "all the time thing", revised throughout the project
+- Pair Programming: All production code is built by two programmers sitting side by side at the same machine, as pairs switch, everyone gets the benefits of everyone's specialized knowledge
+- Test Driven Development: Short cycles of adding tests then making them work, this way teams produce code with nearly 100% coverage
+- Refactoring: Refactoring is contiguous design improvement (Martin Fowler), increasing cohesion while lowering coupling
+
+Other Practices:
+
+User Stories:
+
+Informal natural language description of features foa software system written from the perspective of the end user.  
+"As a `role` I can `capability`, so that `receive benefit`"  
+"As `who` `when` `where`, I want `what` because `why`"
+
+Story Points:
+
+Used to calculate team velocity  
+TBD
 
 References:
 
+- <https://ronjeffries.com/xprog/what-is-extreme-programming/>
 - <https://en.wikipedia.org/wiki/User_story>
 
 ### Story Points
