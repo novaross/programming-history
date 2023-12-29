@@ -1,12 +1,12 @@
 # Programming History
 
 As I continue my learning journey into programming, methodologies and processes, I've decided to organize some of the interesting related events on a timeline.  
-This provides a different perspective on the sequence of events that led to where we are now as an industry.
+This provides an interesting perspective on the sequence of events that lead to where we are now as an industry.
 
 Ruslan Spivak  
 <https://www.linkedin.com/in/ruslan-spivak/>
 
-Contributions are welcome.
+Contributions are welcome (issues, PRs).
 
 ## 1936
 
@@ -164,6 +164,8 @@ References:
 - <https://en.wikipedia.org/wiki/Project_Mercury/>
 - <https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/>
 - <https://flowoftesting.wordpress.com/2013/12/21/project-mercury-and-death-of-testing/>
+- <https://www.craiglarman.com/wiki/downloads/misc/history-of-iterative-larman-and-basili-ieee-computer.pdf>
+- <https://raidoninc.com/blog/what-is-test-driven-development>
 
 ### COBOL
 
@@ -187,7 +189,7 @@ References:
 - <https://blog.microfocus.com/amazing-grace-hopper-birthday/>
 - <https://fedtechmagazine.com/article/2017/09/how-cobol-became-early-backbone-federal-computing>
 - <https://archives.lib.umn.edu/repositories/3/resources/35>
-- <https://web.archive.org/web/20200413033628/https://ibmsystemsmag.com/IBM-Z/10/2019/closing-cobol-programming-skills-gap>
+- <https://techchannel.com/Enterprise/10/2019/closing-cobol-programming-skills-gap>
 
 ## 1962
 
@@ -243,6 +245,16 @@ References:
 John von Neumann was a Hungarian-American mathematician, physicist, computer scientist, engineer and polymath (an individual who's knowledge spans a substantial number of subjects).  
 The paper is a thought experiment into the possibility of creating self replicating pieces of code and describes how a computer program could be designed to replicate itself.  
 Von Neumann's design is considered to be the first computer virus, and Von Neumann considered to be the theoretical father of computer virology.
+
+## 1968
+
+### Software Engineering
+
+TBD
+
+References:
+
+- <https://isthisit.nz/posts/2022/1968-nato-software-engineering-conference/>
 
 ## 1970
 
