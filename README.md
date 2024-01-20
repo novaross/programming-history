@@ -29,14 +29,40 @@ References:
 ### Bombe
 
 Alan turing created the initial design of the Bombe electro mechanical device which was used to decipher the german Enigma machine.  
-The British bombe was developed from a device known as the "bomba" (Polish: bomba kryptologiczna), which had been designed in Poland at the Biuro Szyfrów (Cipher Bureau) by cryptologist Marian Rejewski, who had been breaking German Enigma messages for the previous seven years, using it and earlier machines.
+The British bombe was developed from a device known as the "bomba" (Polish: bomba kryptologiczna), which had been designed in Poland at the Biuro Szyfrow (Cipher Bureau) by cryptologist Marian Rejewski, who had been breaking German Enigma messages for the previous seven years, using it and earlier machines.
 
 References:
 
 - <https://en.wikipedia.org/wiki/Bombe>
 - <https://www.tnmoc.org/bombe>
 
+## 1941
+
+### Konrad Z3
+
+An electromechanical computer designed by Konrad Zuse who was a civil engineer, inventor and businessman.  
+Z3 is considered to be the worlds first working, programmable, Turing Complete in theory, digital computer and was used to make aerodynamic calculations.  
+The original computer was destroyed in 1943 by the allied bombings of Berlin. A replica of the machine was built in the 60s and it is on display in the [Deutsches Museum](https://www.deutsches-museum.de/en)
+
+References:
+
+- <https://en.wikipedia.org/wiki/Z3_(computer)>
+- <https://www.computerhistory.org/timeline/1941/>
+- <https://cs.nyu.edu/courses/summer17/CSCI-UA.0004-002/bootstrap_computer_history_new/zuse.html>
+
 ## 1942
+
+### ABC Atanasoff-Berry Computer
+
+The machine was initially conceived in 1937 and built by 1942 by John Vincent Atanasoff and Clifford Berry.  
+Atanasoff was a mathematics and physics professor at the Iowa state college, and Berry a graduate student.  
+The computer was not programmable and was not implementing stored program architecture (Von Neumann Architecture).  
+ABC was in the midst of the patent dispute, in which it was ruled that the ENIAC derived many basic ideas from ABC.
+
+Rerecences:
+
+- <https://www.britannica.com/technology/Atanasoff-Berry-Computer>
+- <https://ethw.org/Milestones:Atanasoff-Berry_Computer,_1939>
 
 ### Isaak Asimov Laws of Robotics
 
@@ -89,12 +115,20 @@ Some numbers:
 - Depth: 1 meter
 - Length: 30 meters (U shaped)
 
+References:
+
+- <https://en.wikipedia.org/wiki/ENIAC>
+- <https://www.hp.com/ca-en/shop/offer.aspx?p=computer-history-all-about-the-eniac>
+- <https://www.britannica.com/technology/ENIAC>
+
 ### Von Neumann Architecture
 
 John von Neumann, mathematician and physicist proposed the architecture in 1945.  
 The architecture meant that the computer is easier to reprogram, as the instructions and the data are stored in memory.  
 This relates to the development of the stored program concept, which started with the Turing Machine in 1936.  
 Most personal computers, laptops, smartphones and a wide range of embedded systems use the Von Neumann Architecture.
+
+References:
 
 - <https://www.studysmarter.co.uk/explanations/computer-science/computer-organisation-and-architecture/von-neumann-architecture/>
 
@@ -317,13 +351,13 @@ References:
 ### Coupling and Cohesion
 
 An article published in IBM Systems Journal by Larry Constantine and others, talks about the concepts of Coupling and Cohesion.  
-Below two principles are crucial in order to design optimum module structure and interfaces.
+The principles are crucial in order to design optimum module structure and interfaces.
 
 - Cohesion: grouping of functionally related processes into a particular module
 - Coupling: flow of information or parameters passed between modules, optimal coupling reduces the interfaces of modules and the resulting complexity of the software
 
 Two modules considered coupled, when a change in module A causes a need for a change in module B.  
-Coupling is considered bad for software, which cohesion considered good for software.
+Coupling is considered bad for software, while cohesion considered good for software.
 
 References:
 
