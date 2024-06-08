@@ -514,33 +514,36 @@ Inner Circle:
 - Test Driven Development: Short cycles of adding tests then making them work, this way teams produce code with nearly 100% coverage
 - Refactoring: Refactoring is contiguous design improvement (Martin Fowler), increasing cohesion while lowering coupling
 
-Other Practices:
-
-User Stories:
-
-Informal natural language description of features foa software system written from the perspective of the end user.  
-"As a `role` I can `capability`, so that `receive benefit`"  
-"As `who` `when` `where`, I want `what` because `why`"
-
-Story Points:
-
-Used to calculate team velocity  
-TBD
+Other Practices include User Stories and Story Points.
 
 References:
 
 - <https://ronjeffries.com/xprog/what-is-extreme-programming/>
 - <https://en.wikipedia.org/wiki/User_story>
 
+### User Stories
+
+Invented by Kent Beck in 1997, user stories are an informal general explanation of a software feature written from a perspective of the end user. The purpose of a user story is to describe the value which is provided by the end user by implementing the described feature.
+
+Templates for User Stories:
+
+- "As a `role` I can `capability`, so that `receive benefit`"
+- "As `who` `when` `where`, I want `what` because `why`"
+- "As a `type of user`, I want `some goal` so that `some reason`"
+
+User stories are not software system requirements. They are non technical language descriptions of what the users are trying to achieve.
+
+References:
+
+- <https://en.wikipedia.org/wiki/User_story>
+- <https://www.atlassian.com/agile/project-management/user-stories>
+- <https://www.mountaingoatsoftware.com/agile/user-stories>
+
 ### Story Points
 
-Invented by Ron Jeffries as part of XP.  
-Story points are originally an XP idea, also adopted by Scrum methodology.
+Invented by Ron Jeffries as part of XP. Story points are originally an XP idea, also adopted by Scrum methodology.
 
-Originally, stories were estimated in time units.  
-The term "ideal day" was used, where the developers are not bothered by external interferences.  
-An estimation was suggested where tree real days are required to get the work done of an "ideal day".  
-The stakeholders were confused as to how a days work would take three days to get done.  
+Originally, stories were estimated in time units. The term "ideal day" was used, where the developers are not bothered by external interferences. An estimation was suggested where tree real days are required to get the work done of an "ideal day". The stakeholders were confused as to how a days work would take three days to get done.  
 To prevent comparison with time, the team started to say "Points" instead of "Ideal Days".
 
 An attempt to normalize and compare teams based on story points is not advised.
